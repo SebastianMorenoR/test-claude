@@ -11,3 +11,5 @@ function mayorDeDos(a, b) {
 function menorDedos(a, b) {
   return a < b ? a : b;
 }
+
+console.log(mayorDeDos(3, 7))
